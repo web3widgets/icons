@@ -1,2 +1,1 @@
-# icons
-Web3 icons
+# Web3 Icons
